@@ -4,10 +4,10 @@ My name is Qingxiao (Emma) Chen, and I'm currently a graduate student at Georgia
 
 - 🔭 I’m currently working on self-built project: Web APP for Single Cell Data Analysis.
 - 🌱 I’m currently learning the last course Distributed Computing at GaTech.
+- 🎓 I am expected to get Master Degree on Dec. 2024.
 - 👯 I’m looking for jobs as a SDE / SWE / Data Scientist.
 
 - ⚡ Fun fact: I was a dentist (PhD in Dentistry) and have done research on AI & dentistry, buiding CDSS (Clinical Decision Support System) based on techniques including ML, DL, NLP, etc.
-- 😄 Pronouns: tsing xiao (I'm glad to be called Emma)
 - 📫 How to reach me: qingxiaochen1020@gmail.com
 
 
