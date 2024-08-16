@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Qingxiao (Emma) Chen, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
+I’m Emma Chen, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
 
 - 🔭 Currently, I am developing a Web Application for Single Cell Data Analysis as part of a self-built project.
 - 🌱 I am also taking my final course, Distributed Computing, at Georgia Tech.
