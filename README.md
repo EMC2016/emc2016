@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-My name is Qingxiao (Emma) Chen, and I'm currently a graduate student at Georgia Institute of Technology majored in Computer Science!
+I’m Qingxiao (Emma) Chen, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
 
-- 🔭 I’m currently working on self-built project: Web APP for Single Cell Data Analysis.
-- 🌱 I’m currently learning the last course Distributed Computing at GaTech.
-- 🎓 I am expected to get Master Degree on Dec. 2024.
-- 👯 I’m looking for jobs as a SDE / SWE / Data Scientist.
-
-- ⚡ Fun fact: I was a dentist (PhD in Dentistry) and have done research on AI & dentistry, buiding CDSS (Clinical Decision Support System) based on techniques including ML, DL, NLP, etc.
+- 🔭 Currently, I am developing a Web Application for Single Cell Data Analysis as part of a self-built project.
+- 🌱 I am also taking my final course, Distributed Computing, at Georgia Tech.
+- 🎓 I am eager to start my career and am actively seeking opportunities as a Software Development Engineer (SDE), Software Engineer (SWE), or Data Scientist.
+- ⚡ Fun fact: Before transitioning to computer science, I earned a PhD in Dentistry and conducted research on AI in the dental field, including the development of Clinical Decision Support Systems (CDSS) using techniques such as machine learning, deep learning, and natural language processing.
 - 📫 How to reach me: qingxiaochen1020@gmail.com
 
 
