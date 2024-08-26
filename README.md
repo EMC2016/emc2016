@@ -5,7 +5,7 @@ I’m Emma Chen, a graduate student at Georgia Institute of Technology pursuing 
 - 🔭 Currently, I am developing a Web Application for Single Cell Data Analysis as part of a self-built project.
 - 🎓 I am eager to start my career and am actively seeking opportunities as a Software Development Engineer (SDE), Software Engineer (SWE), or Data Scientist.
 - ⚡ Fun fact: Before transitioning to computer science, I earned a PhD in Dentistry and conducted research on AI in the dental field, including the development of Clinical Decision Support Systems (CDSS) using techniques such as machine learning, deep learning, and natural language processing.
-- 📫 How to reach me: qingxiaochen1020@gmail.com
+- 📫 How to reach me: chenqingxiao1020@gmail.com
 
 
 
