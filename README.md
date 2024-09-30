@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Emma Chen, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
+I’m Emma, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
 
 - 🔭 Currently, I am developing an adapter-transformer explainer as part of a self-built project.
 - 🎓 I am eager to start my career and am actively seeking opportunities as a Machine Learning Engineer, Software Development Engineer (SDE), Software Engineer (SWE), or Data Scientist.
