@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Emma, a graduate student at Georgia Institute of Technology pursuing a Master’s degree in Computer Science, expected to graduate in December 2024.
+I’m Emma, a graduate student at Georgia Institute of Technology pursued a Master’s degree in Computer Science and graduated in December 2024.
 
-- 🔭 Currently, I am developing an adapter-transformer explainer as part of a self-built project.
+- 🔭 Currently, I am testing and optimizing an AI chatApp deployed on blockchains.
 - 🎓 I am eager to start my career and am actively seeking opportunities as a Machine Learning Engineer, Software Development Engineer (SDE), Software Engineer (SWE), or Data Scientist.
 - ⚡ Fun fact: Before transitioning to computer science, I earned a PhD in Dentistry and conducted research on AI in the dental field, including the development of Clinical Decision Support Systems (CDSS) using techniques such as machine learning, deep learning, and natural language processing.
 - 📫 How to reach me: emccs99@gmail.com
